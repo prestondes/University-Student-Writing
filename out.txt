@@ -1,0 +1,63 @@
+STUDENT DATA
+
+
+Name: Tom
+Credits: 11
+Address   Apple Street
+Phone #  123 411 3333
+Tuition: 1127.5
+Late Fee: 112.75
+Incidental Fee: 220.0
+Health Care: 270.0
+Food Plan: 0.0
+
+
+STUDENT DATA
+
+
+Name: Jill
+Credits: 4
+Address   Orange Street
+Phone #  222 333 5555
+Tuition: 1404.0
+Late Fee: 140.4
+Incidental Fee: 80.0
+Health Care: 100.0
+Food Plan: 3499.0
+
+
+STUDENT DATA
+
+
+Name: Fred
+Credits: 5
+Address   Lemon Street
+Phone #  1 800 6789
+Tuition: 1755.0
+Late Fee: 175.5
+Incidental Fee: 100.0
+Health Care: 125.0
+Food Plan: 2599.0
+
+
+to the file number of people is 3
+
+
+UNIVERSITY DATA
+
+
+Credits: 20
+Tuition: 4286.5
+Late Fee: 428.65
+Incidental Fee: 400.0
+Health Care: 495.0
+
+
+FOOD PLANS 
+
+
+Can't Stand: 2.0
+Diet: 1.0
+Stuffing Face: 0.0
+
+

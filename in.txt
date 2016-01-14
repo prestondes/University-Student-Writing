@@ -1,0 +1,18 @@
+Tom
+11 Apple Street
+123 411 3333
+yes
+no
+stuffing
+Jill
+4 Orange Street
+222 333 5555
+no
+yes
+can't
+Fred
+5 Lemon Street
+1 800 6789
+no
+yes
+diet
